@@ -7,7 +7,7 @@ This repository contains validation scripts and test data for isolates in the Gl
 ## Running the tests
 To run the tests, you will need the `bash` and `python3` executables. Some of the tests require `biopython`. This is installed automatically by the test script. `bash` should be automatically installed on any POSIX system.
 
-To run the tests - from the `seroba_validation` folder, run the following commands:
+To run the tests, run the following commands:
 ```
 git clone https://github.com/Oliver-Lorenz-dev/seroba_validation.git
 cd seroba_validation
