@@ -5,7 +5,7 @@ Validation data and scripts for new serotypes/subtypes added to SeroBA2
 This repository contains validation scripts and test data for isolates in the Global Pneumococcal Sequencing (GPS) 1 dataset that were typed as one of the newly added serotypes/subtypes to SeroBA2.
 
 ## Running the tests
-To run the tests, you will need the `bash` and `python3` executables. Some of the tests require `biopython`. This is installed automatically by the test script. `bash` should be automatically installed on any POSIX system.
+To run the tests, you will need the `bash` and `python3` executables. Some of the tests require `biopython`. This is installed automatically by the test script.
 
 To run the tests, run the following commands:
 ```
