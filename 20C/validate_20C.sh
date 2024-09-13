@@ -13,7 +13,7 @@ check_key_genes () {
     then
         echo -e "wciG present in ${lane}, test failed!" && exit 1
     else
-        echo "Test passed for ${lane}"
+        echo "Test passed for ${lane} - whaF present and wciG not present"
     fi
 }
 

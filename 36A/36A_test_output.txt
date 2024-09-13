@@ -1,0 +1,12 @@
+20925_3#95
+Sample: 20925_3#95 Gene: wcjA Occurences: 1
+21053_8#157
+Sample: 21053_8#157 Gene: wcjA Occurences: 1
+22335_8#21
+Sample: 22335_8#21 Gene: wcjA Occurences: 1
+22335_8#53
+Sample: 22335_8#53 Gene: wcjA Occurences: 1
+31588_4#127
+Sample: 31588_4#127 Gene: wcjA Occurences: 1
+31588_4#152
+Sample: 31588_4#152 Gene: wcjA Occurences: 1

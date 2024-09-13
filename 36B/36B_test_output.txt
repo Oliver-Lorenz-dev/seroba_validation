@@ -1,0 +1,8 @@
+16288_7#61
+Sample: 16288_7#61 Gene: wcjA Occurences: 1
+19341_3#137
+wcjA not present in 19341_3#137, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+31588_4#347
+wcjA not present in 31588_4#347, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!

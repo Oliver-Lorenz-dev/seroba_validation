@@ -1,0 +1,2 @@
+Test passed for 17428_8#80 - rmlB_6, wchA_4 and wzg_2 present
+

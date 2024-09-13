@@ -1,0 +1,770 @@
+18090_1#59
+wzx not present in 18090_1#59, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+18090_1#59
+wzy not present in 18090_1#59, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+18090_1#59
+Sample: 18090_1#59 Gene: wchO Occurences: 1
+24371_8#228
+wzx not present in 24371_8#228, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+24371_8#228
+wzy not present in 24371_8#228, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+24371_8#228
+Sample: 24371_8#228 Gene: wchO Occurences: 1
+19084_8#8
+wzx not present in 19084_8#8, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+19084_8#8
+wzy not present in 19084_8#8, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+19084_8#8
+Sample: 19084_8#8 Gene: wchO Occurences: 1
+12291_1#29
+wzx not present in 12291_1#29, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+12291_1#29
+wzy not present in 12291_1#29, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+12291_1#29
+Sample: 12291_1#29 Gene: wchO Occurences: 1
+21485_1#68
+wzx not present in 21485_1#68, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+21485_1#68
+wzy not present in 21485_1#68, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+21485_1#68
+Sample: 21485_1#68 Gene: wchO Occurences: 1
+12291_2#41
+wzx not present in 12291_2#41, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+12291_2#41
+wzy not present in 12291_2#41, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+12291_2#41
+Sample: 12291_2#41 Gene: wchO Occurences: 1
+11658_2#11
+wzx not present in 11658_2#11, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+11658_2#11
+wzy not present in 11658_2#11, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+11658_2#11
+Sample: 11658_2#11 Gene: wchO Occurences: 1
+19084_8#153
+Sample: 19084_8#153 Gene: wzx Occurences: 1
+19084_8#153
+wzy not present in 19084_8#153, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+19084_8#153
+Sample: 19084_8#153 Gene: wchO Occurences: 1
+14673_2#37
+Sample: 14673_2#37 Gene: wzx Occurences: 1
+14673_2#37
+Sample: 14673_2#37 Gene: wzy Occurences: 1
+14673_2#37
+wchO not present in 14673_2#37, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+19183_3#164
+wzx not present in 19183_3#164, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+19183_3#164
+wzy not present in 19183_3#164, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+19183_3#164
+Sample: 19183_3#164 Gene: wchO Occurences: 1
+19646_1#118
+wzx not present in 19646_1#118, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+19646_1#118
+wzy not present in 19646_1#118, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+19646_1#118
+Sample: 19646_1#118 Gene: wchO Occurences: 1
+23164_8#141
+wzx not present in 23164_8#141, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+23164_8#141
+wzy not present in 23164_8#141, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+23164_8#141
+Sample: 23164_8#141 Gene: wchO Occurences: 1
+21485_1#37
+wzx not present in 21485_1#37, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+21485_1#37
+wzy not present in 21485_1#37, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+21485_1#37
+Sample: 21485_1#37 Gene: wchO Occurences: 1
+14520_4#53
+wzx not present in 14520_4#53, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+14520_4#53
+wzy not present in 14520_4#53, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+14520_4#53
+Sample: 14520_4#53 Gene: wchO Occurences: 1
+11822_8#81
+Sample: 11822_8#81 Gene: wzx Occurences: 1
+11822_8#81
+Sample: 11822_8#81 Gene: wzy Occurences: 1
+11822_8#81
+Sample: 11822_8#81 Gene: wchO Occurences: 1
+24861_1#340
+wzx not present in 24861_1#340, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+24861_1#340
+wzy not present in 24861_1#340, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+24861_1#340
+Sample: 24861_1#340 Gene: wchO Occurences: 1
+9950_3#49
+Sample: 9950_3#49 Gene: wzx Occurences: 1
+9950_3#49
+Sample: 9950_3#49 Gene: wzy Occurences: 1
+9950_3#49
+wchO not present in 9950_3#49, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+21053_8#150
+wzx not present in 21053_8#150, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+21053_8#150
+wzy not present in 21053_8#150, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+21053_8#150
+Sample: 21053_8#150 Gene: wchO Occurences: 1
+24861_1#347
+wzx not present in 24861_1#347, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+24861_1#347
+wzy not present in 24861_1#347, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+24861_1#347
+Sample: 24861_1#347 Gene: wchO Occurences: 1
+15277_1#15
+Sample: 15277_1#15 Gene: wzx Occurences: 1
+15277_1#15
+Sample: 15277_1#15 Gene: wzy Occurences: 1
+15277_1#15
+wchO not present in 15277_1#15, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+15682_1#63
+Sample: 15682_1#63 Gene: wzx Occurences: 1
+15682_1#63
+Sample: 15682_1#63 Gene: wzy Occurences: 1
+15682_1#63
+Sample: 15682_1#63 Gene: wchO Occurences: 1
+19341_1#175
+wzx not present in 19341_1#175, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+19341_1#175
+wzy not present in 19341_1#175, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+19341_1#175
+Sample: 19341_1#175 Gene: wchO Occurences: 1
+18090_1#176
+wzx not present in 18090_1#176, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+18090_1#176
+wzy not present in 18090_1#176, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+18090_1#176
+Sample: 18090_1#176 Gene: wchO Occurences: 1
+9950_3#8
+Sample: 9950_3#8 Gene: wzx Occurences: 1
+9950_3#8
+Sample: 9950_3#8 Gene: wzy Occurences: 1
+9950_3#8
+Sample: 9950_3#8 Gene: wchO Occurences: 1
+11657_8#62
+Sample: 11657_8#62 Gene: wzx Occurences: 1
+11657_8#62
+Sample: 11657_8#62 Gene: wzy Occurences: 1
+11657_8#62
+wchO not present in 11657_8#62, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+14673_2#89
+wzx not present in 14673_2#89, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+14673_2#89
+Sample: 14673_2#89 Gene: wzy Occurences: 1
+14673_2#89
+Sample: 14673_2#89 Gene: wchO Occurences: 1
+9950_2#72
+Sample: 9950_2#72 Gene: wzx Occurences: 1
+9950_2#72
+Sample: 9950_2#72 Gene: wzy Occurences: 1
+9950_2#72
+wchO not present in 9950_2#72, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+15682_1#37
+Sample: 15682_1#37 Gene: wzx Occurences: 1
+15682_1#37
+wzy not present in 15682_1#37, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+15682_1#37
+Sample: 15682_1#37 Gene: wchO Occurences: 1
+19341_1#9
+wzx not present in 19341_1#9, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+19341_1#9
+wzy not present in 19341_1#9, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+19341_1#9
+Sample: 19341_1#9 Gene: wchO Occurences: 1
+9950_3#55
+Sample: 9950_3#55 Gene: wzx Occurences: 1
+9950_3#55
+Sample: 9950_3#55 Gene: wzy Occurences: 1
+9950_3#55
+wchO not present in 9950_3#55, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+21485_1#33
+wzx not present in 21485_1#33, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+21485_1#33
+wzy not present in 21485_1#33, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+21485_1#33
+Sample: 21485_1#33 Gene: wchO Occurences: 1
+21127_2#12
+wzx not present in 21127_2#12, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+21127_2#12
+wzy not present in 21127_2#12, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+21127_2#12
+Sample: 21127_2#12 Gene: wchO Occurences: 1
+21485_1#6
+wzx not present in 21485_1#6, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+21485_1#6
+wzy not present in 21485_1#6, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+21485_1#6
+Sample: 21485_1#6 Gene: wchO Occurences: 1
+21127_2#35
+wzx not present in 21127_2#35, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+21127_2#35
+wzy not present in 21127_2#35, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+21127_2#35
+Sample: 21127_2#35 Gene: wchO Occurences: 1
+21485_1#111
+wzx not present in 21485_1#111, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+21485_1#111
+wzy not present in 21485_1#111, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+21485_1#111
+Sample: 21485_1#111 Gene: wchO Occurences: 1
+19084_8#11
+wzx not present in 19084_8#11, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+19084_8#11
+wzy not present in 19084_8#11, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+19084_8#11
+Sample: 19084_8#11 Gene: wchO Occurences: 1
+24861_1#21
+wzx not present in 24861_1#21, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+24861_1#21
+wzy not present in 24861_1#21, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+24861_1#21
+Sample: 24861_1#21 Gene: wchO Occurences: 1
+13091_5#48
+wzx not present in 13091_5#48, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+13091_5#48
+wzy not present in 13091_5#48, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+13091_5#48
+Sample: 13091_5#48 Gene: wchO Occurences: 1
+19341_3#183
+wzx not present in 19341_3#183, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+19341_3#183
+wzy not present in 19341_3#183, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+19341_3#183
+Sample: 19341_3#183 Gene: wchO Occurences: 1
+21485_1#45
+wzx not present in 21485_1#45, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+21485_1#45
+wzy not present in 21485_1#45, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+21485_1#45
+Sample: 21485_1#45 Gene: wchO Occurences: 1
+15682_2#62
+wzx not present in 15682_2#62, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+15682_2#62
+wzy not present in 15682_2#62, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+15682_2#62
+Sample: 15682_2#62 Gene: wchO Occurences: 1
+21485_1#107
+wzx not present in 21485_1#107, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+21485_1#107
+wzy not present in 21485_1#107, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+21485_1#107
+Sample: 21485_1#107 Gene: wchO Occurences: 1
+15608_5#51
+Sample: 15608_5#51 Gene: wzx Occurences: 1
+15608_5#51
+Sample: 15608_5#51 Gene: wzy Occurences: 1
+15608_5#51
+wchO not present in 15608_5#51, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+12291_2#29
+wzx not present in 12291_2#29, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+12291_2#29
+wzy not present in 12291_2#29, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+12291_2#29
+Sample: 12291_2#29 Gene: wchO Occurences: 1
+12291_1#41
+wzx not present in 12291_1#41, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+12291_1#41
+wzy not present in 12291_1#41, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+12291_1#41
+Sample: 12291_1#41 Gene: wchO Occurences: 1
+22276_1#124
+wzx not present in 22276_1#124, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+22276_1#124
+wzy not present in 22276_1#124, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+22276_1#124
+Sample: 22276_1#124 Gene: wchO Occurences: 1
+21485_1#109
+wzx not present in 21485_1#109, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+21485_1#109
+wzy not present in 21485_1#109, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+21485_1#109
+Sample: 21485_1#109 Gene: wchO Occurences: 1
+19084_8#143
+Sample: 19084_8#143 Gene: wzx Occurences: 1
+19084_8#143
+Sample: 19084_8#143 Gene: wzy Occurences: 1
+19084_8#143
+wchO not present in 19084_8#143, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+12291_3#11
+wzx not present in 12291_3#11, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+12291_3#11
+wzy not present in 12291_3#11, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+12291_3#11
+Sample: 12291_3#11 Gene: wchO Occurences: 1
+21485_1#13
+wzx not present in 21485_1#13, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+21485_1#13
+wzy not present in 21485_1#13, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+21485_1#13
+Sample: 21485_1#13 Gene: wchO Occurences: 1
+11511_7#50
+Sample: 11511_7#50 Gene: wzx Occurences: 1
+11511_7#50
+wzy not present in 11511_7#50, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+11511_7#50
+Sample: 11511_7#50 Gene: wchO Occurences: 1
+19084_7#113
+wzx not present in 19084_7#113, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+19084_7#113
+wzy not present in 19084_7#113, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+19084_7#113
+Sample: 19084_7#113 Gene: wchO Occurences: 1
+20402_4#131
+wzx not present in 20402_4#131, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+20402_4#131
+wzy not present in 20402_4#131, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+20402_4#131
+Sample: 20402_4#131 Gene: wchO Occurences: 1
+15608_3#85
+wzx not present in 15608_3#85, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+15608_3#85
+wzy not present in 15608_3#85, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+15608_3#85
+Sample: 15608_3#85 Gene: wchO Occurences: 1
+15608_4#47
+Sample: 15608_4#47 Gene: wzx Occurences: 1
+15608_4#47
+Sample: 15608_4#47 Gene: wzy Occurences: 1
+15608_4#47
+Sample: 15608_4#47 Gene: wchO Occurences: 1
+31588_4#156
+wzx not present in 31588_4#156, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+31588_4#156
+wzy not present in 31588_4#156, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+31588_4#156
+Sample: 31588_4#156 Gene: wchO Occurences: 1
+15608_4#25
+wzx not present in 15608_4#25, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+15608_4#25
+wzy not present in 15608_4#25, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+15608_4#25
+Sample: 15608_4#25 Gene: wchO Occurences: 1
+12291_3#30
+wzx not present in 12291_3#30, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+12291_3#30
+wzy not present in 12291_3#30, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+12291_3#30
+Sample: 12291_3#30 Gene: wchO Occurences: 1
+14673_4#56
+wzx not present in 14673_4#56, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+14673_4#56
+Sample: 14673_4#56 Gene: wzy Occurences: 1
+14673_4#56
+Sample: 14673_4#56 Gene: wchO Occurences: 1
+21127_2#56
+wzx not present in 21127_2#56, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+21127_2#56
+wzy not present in 21127_2#56, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+21127_2#56
+Sample: 21127_2#56 Gene: wchO Occurences: 1
+15682_2#63
+wzx not present in 15682_2#63, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+15682_2#63
+wzy not present in 15682_2#63, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+15682_2#63
+Sample: 15682_2#63 Gene: wchO Occurences: 1
+19084_7#169
+wzx not present in 19084_7#169, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+19084_7#169
+wzy not present in 19084_7#169, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+19084_7#169
+Sample: 19084_7#169 Gene: wchO Occurences: 1
+21127_2#116
+wzx not present in 21127_2#116, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+21127_2#116
+wzy not present in 21127_2#116, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+21127_2#116
+Sample: 21127_2#116 Gene: wchO Occurences: 1
+31588_4#241
+wzx not present in 31588_4#241, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+31588_4#241
+wzy not present in 31588_4#241, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+31588_4#241
+Sample: 31588_4#241 Gene: wchO Occurences: 1
+13670_3#30
+Sample: 13670_3#30 Gene: wzx Occurences: 1
+13670_3#30
+Sample: 13670_3#30 Gene: wzy Occurences: 1
+13670_3#30
+wchO not present in 13670_3#30, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+21485_1#122
+wzx not present in 21485_1#122, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+21485_1#122
+wzy not present in 21485_1#122, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+21485_1#122
+Sample: 21485_1#122 Gene: wchO Occurences: 1
+19084_8#63
+wzx not present in 19084_8#63, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+19084_8#63
+wzy not present in 19084_8#63, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+19084_8#63
+Sample: 19084_8#63 Gene: wchO Occurences: 1
+31537_1#281
+wzx not present in 31537_1#281, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+31537_1#281
+wzy not present in 31537_1#281, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+31537_1#281
+Sample: 31537_1#281 Gene: wchO Occurences: 1
+21485_1#16
+wzx not present in 21485_1#16, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+21485_1#16
+wzy not present in 21485_1#16, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+21485_1#16
+Sample: 21485_1#16 Gene: wchO Occurences: 1
+24861_1#339
+wzx not present in 24861_1#339, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+24861_1#339
+wzy not present in 24861_1#339, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+24861_1#339
+Sample: 24861_1#339 Gene: wchO Occurences: 1
+11657_2#57
+Sample: 11657_2#57 Gene: wzx Occurences: 1
+11657_2#57
+Sample: 11657_2#57 Gene: wzy Occurences: 1
+11657_2#57
+wchO not present in 11657_2#57, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+19084_8#162
+Sample: 19084_8#162 Gene: wzx Occurences: 1
+19084_8#162
+Sample: 19084_8#162 Gene: wzy Occurences: 1
+19084_8#162
+Sample: 19084_8#162 Gene: wchO Occurences: 1
+15873_5#50
+wzx not present in 15873_5#50, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+15873_5#50
+wzy not present in 15873_5#50, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+15873_5#50
+Sample: 15873_5#50 Gene: wchO Occurences: 1
+20402_4#121
+wzx not present in 20402_4#121, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+20402_4#121
+wzy not present in 20402_4#121, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+20402_4#121
+Sample: 20402_4#121 Gene: wchO Occurences: 1
+21127_1#1
+wzx not present in 21127_1#1, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+21127_1#1
+wzy not present in 21127_1#1, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+21127_1#1
+Sample: 21127_1#1 Gene: wchO Occurences: 1
+15608_5#5
+Sample: 15608_5#5 Gene: wzx Occurences: 1
+15608_5#5
+wzy not present in 15608_5#5, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+15608_5#5
+Sample: 15608_5#5 Gene: wchO Occurences: 1
+9950_3#14
+Sample: 9950_3#14 Gene: wzx Occurences: 1
+9950_3#14
+Sample: 9950_3#14 Gene: wzy Occurences: 1
+9950_3#14
+Sample: 9950_3#14 Gene: wchO Occurences: 1
+18090_1#25
+wzx not present in 18090_1#25, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+18090_1#25
+wzy not present in 18090_1#25, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+18090_1#25
+Sample: 18090_1#25 Gene: wchO Occurences: 1
+19084_7#184
+wzx not present in 19084_7#184, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+19084_7#184
+wzy not present in 19084_7#184, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+19084_7#184
+Sample: 19084_7#184 Gene: wchO Occurences: 1
+15682_2#23
+wzx not present in 15682_2#23, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+15682_2#23
+wzy not present in 15682_2#23, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+15682_2#23
+Sample: 15682_2#23 Gene: wchO Occurences: 1
+22841_1#179
+wzx not present in 22841_1#179, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+22841_1#179
+wzy not present in 22841_1#179, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+22841_1#179
+Sample: 22841_1#179 Gene: wchO Occurences: 1
+19183_3#127
+wzx not present in 19183_3#127, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+19183_3#127
+wzy not present in 19183_3#127, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+19183_3#127
+Sample: 19183_3#127 Gene: wchO Occurences: 1
+21485_1#124
+wzx not present in 21485_1#124, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+21485_1#124
+wzy not present in 21485_1#124, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+21485_1#124
+Sample: 21485_1#124 Gene: wchO Occurences: 1
+19183_3#138
+wzx not present in 19183_3#138, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+19183_3#138
+wzy not present in 19183_3#138, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+19183_3#138
+Sample: 19183_3#138 Gene: wchO Occurences: 1
+22027_1#131
+wzx not present in 22027_1#131, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+22027_1#131
+wzy not present in 22027_1#131, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+22027_1#131
+Sample: 22027_1#131 Gene: wchO Occurences: 1
+17794_7#56
+wzx not present in 17794_7#56, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+17794_7#56
+wzy not present in 17794_7#56, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+17794_7#56
+Sample: 17794_7#56 Gene: wchO Occurences: 1
+19341_1#99
+wzx not present in 19341_1#99, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+19341_1#99
+wzy not present in 19341_1#99, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+19341_1#99
+Sample: 19341_1#99 Gene: wchO Occurences: 1
+12291_3#58
+wzx not present in 12291_3#58, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+12291_3#58
+wzy not present in 12291_3#58, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+12291_3#58
+Sample: 12291_3#58 Gene: wchO Occurences: 1
+15608_5#22
+Sample: 15608_5#22 Gene: wzx Occurences: 1
+15608_5#22
+wzy not present in 15608_5#22, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+15608_5#22
+Sample: 15608_5#22 Gene: wchO Occurences: 1
+21485_1#7
+wzx not present in 21485_1#7, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+21485_1#7
+wzy not present in 21485_1#7, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+21485_1#7
+Sample: 21485_1#7 Gene: wchO Occurences: 1
+19084_8#144
+Sample: 19084_8#144 Gene: wzx Occurences: 1
+19084_8#144
+Sample: 19084_8#144 Gene: wzy Occurences: 1
+19084_8#144
+Sample: 19084_8#144 Gene: wchO Occurences: 1
+22114_6#48
+wzx not present in 22114_6#48, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+22114_6#48
+wzy not present in 22114_6#48, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+22114_6#48
+wchO not present in 22114_6#48, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+21127_1#19
+wzx not present in 21127_1#19, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+21127_1#19
+wzy not present in 21127_1#19, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+21127_1#19
+Sample: 21127_1#19 Gene: wchO Occurences: 1
+19341_3#176
+wzx not present in 19341_3#176, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+19341_3#176
+wzy not present in 19341_3#176, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+19341_3#176
+Sample: 19341_3#176 Gene: wchO Occurences: 1
+19084_8#149
+Sample: 19084_8#149 Gene: wzx Occurences: 1
+19084_8#149
+Sample: 19084_8#149 Gene: wzy Occurences: 1
+19084_8#149
+wchO not present in 19084_8#149, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+21053_8#168
+wzx not present in 21053_8#168, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+21053_8#168
+wzy not present in 21053_8#168, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+21053_8#168
+Sample: 21053_8#168 Gene: wchO Occurences: 1
+24861_1#336
+wzx not present in 24861_1#336, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+24861_1#336
+wzy not present in 24861_1#336, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+24861_1#336
+Sample: 24861_1#336 Gene: wchO Occurences: 1
+28420_2#249
+wzx not present in 28420_2#249, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+28420_2#249
+wzy not present in 28420_2#249, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+28420_2#249
+Sample: 28420_2#249 Gene: wchO Occurences: 1
+14520_7#80
+wzx not present in 14520_7#80, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+14520_7#80
+wzy not present in 14520_7#80, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+14520_7#80
+wchO not present in 14520_7#80, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+15608_2#44
+wzx not present in 15608_2#44, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+15608_2#44
+wzy not present in 15608_2#44, exact match test failed! Trying python validation for specific mutations
+All mutations validated successfully!
+15608_2#44
+Sample: 15608_2#44 Gene: wchO Occurences: 1

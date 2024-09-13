@@ -1,0 +1,200 @@
+Test passed for 12291_6#22 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 32036_8#28 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 17059_8#40 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 13415_8#15 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 11657_2#78 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 15995_1#85 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 15995_2#8 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 14913_3#5 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 32139_3#73 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 31958_2#271 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 17150_5#36 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 17870_8#115 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 12291_6#69 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 11826_1#61 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 14566_4#26 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 14555_3#1 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 14566_6#94 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 32139_3#107 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 12837_4#26 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 14410_8#9 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 13415_5#78 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 14673_5#25 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 17150_6#25 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 24977_8#8 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 14673_6#71 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 13415_6#2 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 15378_3#61 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 17175_8#15 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 14555_3#23 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 14723_4#69 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 14723_4#18 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 15841_5#91 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 15874_1#79 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 17175_5#28 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 14566_5#21 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 14555_3#15 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 32139_2#133 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 14723_4#35 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 32139_3#60 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 9789_3#49 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 12837_3#76 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 15378_2#90 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 31958_2#158 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 12837_3#25 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 32036_8#201 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 14673_5#34 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 15841_2#9 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 31919_2#148 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 24371_8#236 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 32139_3#367 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 12837_4#9 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 15841_3#20 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 24977_8#20 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 12291_6#44 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 17966_5#69 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 12837_1#60 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 17175_7#66 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 31958_2#308 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 12837_2#47 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 31919_2#364 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 15731_8#25 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 13470_1#27 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 17870_8#55 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 14566_6#45 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 32139_2#309 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 24371_8#205 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 15378_3#5 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 14555_4#69 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 32036_8#56 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 14723_6#34 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 13470_1#58 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 9789_5#91 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 15841_3#77 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 15378_2#71 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 9789_3#54 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 29339_1#2 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 13415_7#82 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 15995_1#40 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 14412_2#9 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 12837_1#75 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 17138_4#79 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 32139_2#276 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 14723_6#20 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 13415_8#7 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 13414_8#81 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 12291_6#1 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 32139_2#105 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 14412_1#37 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 12290_2#69 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 32036_8#5 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 32139_3#142 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 32139_2#6 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 32139_3#203 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 14673_6#36 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 9789_2#64 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 14555_3#81 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 14913_7#22 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 14673_5#14 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 15841_4#66 - rmlA_2, wzg_06AII and wzy_06AII present
+
+Test passed for 13415_5#12 - rmlA_2, wzg_06AII and wzy_06AII present
+
