@@ -18,7 +18,7 @@ do
 
     check_gene "wzg_06BI" ${lane}
 
-    echo "Test passed for ${lane}"
+    echo "Test passed for ${lane} - rmlA_4 and wzg_06BI present"
     echo
 done < test_data/lanes.txt
 

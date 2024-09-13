@@ -1,0 +1,200 @@
+Test passed for 27119_1#70 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 34746_4#294 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 32139_3#183 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 27119_1#24 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 21127_1#123 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 27119_1#170 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 14566_5#54 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 27119_1#262 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 27119_1#243 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 22841_1#37 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 27119_1#64 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 32139_3#4 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 15608_4#16 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 27119_1#210 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 27119_1#206 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 27119_1#257 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 15682_1#94 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 32139_2#349 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 27119_1#156 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 27119_1#272 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 12291_4#48 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 27119_1#214 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 27119_1#166 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 27119_1#280 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 27119_1#45 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 26968_7#274 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 27119_1#104 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 27119_1#49 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 34746_4#343 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 19084_7#106 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 27119_1#172 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 16043_2#59 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 14913_5#38 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 26968_7#278 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 27119_1#61 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 32036_8#14 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 32139_3#187 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 27119_1#249 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 27119_1#252 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 32036_8#170 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 31919_2#171 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 19341_2#179 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 32139_3#296 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 34746_4#141 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 27119_1#186 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 14673_1#64 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 27119_1#60 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 27119_1#102 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 24820_2#313 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 27119_1#251 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 27119_1#77 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 11511_8#72 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 27119_1#160 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 27119_1#188 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 12837_5#23 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 13154_2#65 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 27119_1#107 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 15874_1#65 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 14673_1#88 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 26968_7#279 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 27119_1#32 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 32036_8#305 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 11657_4#52 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 27119_1#239 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 32139_2#223 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 27119_1#75 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 22841_1#7 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 27119_1#98 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 34746_4#108 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 31919_2#349 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 31919_2#194 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 32139_2#176 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 21053_8#116 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 27119_1#58 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 34746_4#124 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 34746_4#188 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 31958_2#233 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 27119_1#190 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 12291_3#52 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 27119_1#155 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 14555_3#56 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 13091_6#38 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 13414_8#93 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 24820_2#305 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 27119_1#146 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 13470_1#52 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 27119_1#264 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 32139_3#99 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 12837_2#23 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 27119_1#233 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 27119_1#122 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 32139_2#49 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 27119_1#90 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 32139_3#258 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 27119_1#65 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 27119_1#121 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 27119_1#150 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 27119_1#208 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 21999_8#52 - rmlB_2, rmlD_2 and wzy_1 present
+
+Test passed for 32139_2#302 - rmlB_2, rmlD_2 and wzy_1 present
+

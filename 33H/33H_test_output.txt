@@ -1,0 +1,2 @@
+16288_6#60
+Test passed for 16288_6#60 - wciG not present

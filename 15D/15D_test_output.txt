@@ -1,0 +1,4 @@
+SRR11130100
+Sample: SRR11130100 Gene: wzy Occurences: 1
+SRR11130100
+Sample: SRR11130100 Gene: wzd Occurences: 1

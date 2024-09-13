@@ -14,7 +14,7 @@ check_key_genes () {
         then
             echo -e "${gene} present in ${lane}, test failed!" && exit 1
         else
-            echo -e "Test passed for ${lane}"
+            echo -e "Test passed for ${lane} - ${gene} not present"
         fi
 
     done

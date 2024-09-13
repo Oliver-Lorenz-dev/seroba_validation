@@ -1,0 +1,200 @@
+Test passed for 32139_2#144 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 32139_2#205 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 22841_2#152 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 14555_3#30 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 32036_8#85 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 11822_1#71 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 22841_3#117 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 22841_3#36 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 21242_2#156 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 21999_8#105 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 23164_8#113 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 21485_1#142 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 19646_1#96 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 13415_8#69 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 21127_1#40 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 22027_1#129 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 22841_3#33 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 31588_4#182 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 29330_2#290 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 21127_2#109 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 19084_7#37 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 22027_1#128 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 32139_2#281 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 29102_1#62 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 21523_1#120 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 13415_7#38 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 28042_2#145 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 15608_5#87 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 14520_5#55 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 19341_1#178 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 14723_1#63 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 32139_4#184 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 29102_1#309 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 32139_2#129 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 22667_7#173 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 21127_2#104 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 24861_1#299 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 22114_6#5 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 22276_1#187 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 21127_1#50 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 15873_3#1 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 15682_2#69 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 16399_7#3 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 19646_1#83 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 29330_2#341 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 13414_8#38 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 15531_6#3 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 19183_3#47 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 24861_1#39 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 29594_2#157 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 24861_1#255 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 14723_6#85 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 19341_1#170 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 20402_4#122 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 31958_2#199 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 17150_4#24 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 19646_1#177 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 17966_5#181 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 14723_1#75 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 14410_7#55 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 21242_6#99 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 12837_3#32 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 21999_8#124 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 13415_6#65 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 14520_5#67 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 15873_4#8 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 24820_2#294 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 24775_1#72 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 15873_3#79 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 22841_2#188 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 15608_4#35 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 24861_1#121 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 28042_2#141 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 24861_1#66 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 31588_4#203 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 17175_7#72 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 32139_2#131 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 24371_8#196 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 21127_1#115 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 15531_6#91 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 20925_3#46 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 19341_1#133 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 21242_2#143 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 21127_1#126 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 17428_8#168 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 23164_8#80 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 21523_1#46 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 17150_5#29 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 22841_3#180 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 22027_1#76 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 22841_3#137 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 13154_4#6 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 19341_3#125 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 28832_1#99 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 32036_8#231 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 15873_3#34 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 17059_7#12 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 17138_4#35 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 14913_3#37 - rmlA_3, rmlB_4 and wzg_06AI present
+
+Test passed for 22027_1#126 - rmlA_3, rmlB_4 and wzg_06AI present
+

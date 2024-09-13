@@ -1,0 +1,8 @@
+Test passed for 21127_2#54 - rmlA_5, rmlB_3 and wzg_06BII present
+
+Test passed for 15608_5#15 - rmlA_5, rmlB_3 and wzg_06BII present
+
+Test passed for 15608_5#14 - rmlA_5, rmlB_3 and wzg_06BII present
+
+Test passed for 15608_4#49 - rmlA_5, rmlB_3 and wzg_06BII present
+

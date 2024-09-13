@@ -1,0 +1,150 @@
+23430_1#99
+Sample: 23430_1#99 Gene: gct Occurences: 1
+23430_1#99
+Sample: 23430_1#99 Gene: wcrL Occurences: 1
+23430_1#99
+Sample: 23430_1#99 Gene: wcwC Occurences: 1
+24977_8#231
+Sample: 24977_8#231 Gene: gct Occurences: 1
+24977_8#231
+Sample: 24977_8#231 Gene: wcrL Occurences: 1
+24977_8#231
+Sample: 24977_8#231 Gene: wcwC Occurences: 1
+23430_2#151
+Sample: 23430_2#151 Gene: gct Occurences: 1
+23430_2#151
+Sample: 23430_2#151 Gene: wcrL Occurences: 1
+23430_2#151
+Sample: 23430_2#151 Gene: wcwC Occurences: 1
+19341_3#80
+Sample: 19341_3#80 Gene: gct Occurences: 1
+19341_3#80
+Sample: 19341_3#80 Gene: wcrL Occurences: 1
+19341_3#80
+Sample: 19341_3#80 Gene: wcwC Occurences: 1
+23430_3#186
+Sample: 23430_3#186 Gene: gct Occurences: 1
+23430_3#186
+Sample: 23430_3#186 Gene: wcrL Occurences: 1
+23430_3#186
+Sample: 23430_3#186 Gene: wcwC Occurences: 1
+18090_2#7
+Sample: 18090_2#7 Gene: gct Occurences: 1
+18090_2#7
+Sample: 18090_2#7 Gene: wcrL Occurences: 1
+18090_2#7
+Sample: 18090_2#7 Gene: wcwC Occurences: 1
+23430_3#149
+Sample: 23430_3#149 Gene: gct Occurences: 1
+23430_3#149
+Sample: 23430_3#149 Gene: wcrL Occurences: 1
+23430_3#149
+Sample: 23430_3#149 Gene: wcwC Occurences: 1
+24820_2#63
+Sample: 24820_2#63 Gene: gct Occurences: 1
+24820_2#63
+Sample: 24820_2#63 Gene: wcrL Occurences: 1
+24820_2#63
+Sample: 24820_2#63 Gene: wcwC Occurences: 1
+23204_4#145
+Sample: 23204_4#145 Gene: gct Occurences: 1
+23204_4#145
+Sample: 23204_4#145 Gene: wcrL Occurences: 1
+23204_4#145
+Sample: 23204_4#145 Gene: wcwC Occurences: 1
+23430_1#36
+Sample: 23430_1#36 Gene: gct Occurences: 1
+23430_1#36
+Sample: 23430_1#36 Gene: wcrL Occurences: 1
+23430_1#36
+Sample: 23430_1#36 Gene: wcwC Occurences: 1
+23430_2#75
+Sample: 23430_2#75 Gene: gct Occurences: 1
+23430_2#75
+Sample: 23430_2#75 Gene: wcrL Occurences: 1
+23430_2#75
+Sample: 23430_2#75 Gene: wcwC Occurences: 1
+23430_3#162
+Sample: 23430_3#162 Gene: gct Occurences: 1
+23430_3#162
+Sample: 23430_3#162 Gene: wcrL Occurences: 1
+23430_3#162
+Sample: 23430_3#162 Gene: wcwC Occurences: 1
+23430_4#90
+Sample: 23430_4#90 Gene: gct Occurences: 1
+23430_4#90
+Sample: 23430_4#90 Gene: wcrL Occurences: 1
+23430_4#90
+Sample: 23430_4#90 Gene: wcwC Occurences: 1
+23430_3#47
+Sample: 23430_3#47 Gene: gct Occurences: 1
+23430_3#47
+Sample: 23430_3#47 Gene: wcrL Occurences: 1
+23430_3#47
+Sample: 23430_3#47 Gene: wcwC Occurences: 1
+23204_4#59
+Sample: 23204_4#59 Gene: gct Occurences: 1
+23204_4#59
+Sample: 23204_4#59 Gene: wcrL Occurences: 1
+23204_4#59
+Sample: 23204_4#59 Gene: wcwC Occurences: 1
+24820_2#19
+Sample: 24820_2#19 Gene: gct Occurences: 1
+24820_2#19
+Sample: 24820_2#19 Gene: wcrL Occurences: 1
+24820_2#19
+Sample: 24820_2#19 Gene: wcwC Occurences: 1
+23430_1#110
+Sample: 23430_1#110 Gene: gct Occurences: 1
+23430_1#110
+Sample: 23430_1#110 Gene: wcrL Occurences: 1
+23430_1#110
+Sample: 23430_1#110 Gene: wcwC Occurences: 1
+24977_8#104
+Sample: 24977_8#104 Gene: gct Occurences: 1
+24977_8#104
+Sample: 24977_8#104 Gene: wcrL Occurences: 1
+24977_8#104
+Sample: 24977_8#104 Gene: wcwC Occurences: 1
+23430_3#180
+Sample: 23430_3#180 Gene: gct Occurences: 1
+23430_3#180
+Sample: 23430_3#180 Gene: wcrL Occurences: 1
+23430_3#180
+Sample: 23430_3#180 Gene: wcwC Occurences: 1
+23430_3#73
+Sample: 23430_3#73 Gene: gct Occurences: 1
+23430_3#73
+Sample: 23430_3#73 Gene: wcrL Occurences: 1
+23430_3#73
+Sample: 23430_3#73 Gene: wcwC Occurences: 1
+28042_2#98
+Sample: 28042_2#98 Gene: gct Occurences: 1
+28042_2#98
+Sample: 28042_2#98 Gene: wcrL Occurences: 1
+28042_2#98
+Sample: 28042_2#98 Gene: wcwC Occurences: 1
+18090_2#8
+Sample: 18090_2#8 Gene: gct Occurences: 1
+18090_2#8
+Sample: 18090_2#8 Gene: wcrL Occurences: 1
+18090_2#8
+Sample: 18090_2#8 Gene: wcwC Occurences: 1
+19341_3#29
+Sample: 19341_3#29 Gene: gct Occurences: 1
+19341_3#29
+Sample: 19341_3#29 Gene: wcrL Occurences: 1
+19341_3#29
+Sample: 19341_3#29 Gene: wcwC Occurences: 1
+23430_4#3
+Sample: 23430_4#3 Gene: gct Occurences: 1
+23430_4#3
+Sample: 23430_4#3 Gene: wcrL Occurences: 1
+23430_4#3
+Sample: 23430_4#3 Gene: wcwC Occurences: 1
+18090_2#6
+Sample: 18090_2#6 Gene: gct Occurences: 1
+18090_2#6
+Sample: 18090_2#6 Gene: wcrL Occurences: 1
+18090_2#6
+Sample: 18090_2#6 Gene: wcwC Occurences: 1
